@@ -4,3 +4,4 @@ test git diff HEAD -- readme.txt
 test git remote repository.
 
 Hello,I'm zhangsan.
+Hello,I'm lisi.
